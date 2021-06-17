@@ -681,13 +681,13 @@ section.lazy-placeholder:after {
 .cid-sABF8euUCt {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #5b686b;
+  background-color: #efefef;
 }
 .cid-sABF8euUCt .fb-page,
 .cid-sABF8euUCt span,
 .cid-sABF8euUCt iframe {
   width: 500px;
-  height: 1000px;
+  height: 970px;
 }
 .cid-sABF8euUCt blockquote {
   display: none;
@@ -702,12 +702,12 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #465052;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #465052;
+  background: #ffffff;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -791,7 +791,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #465052;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -862,7 +862,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1087,18 +1087,18 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #f7ed4a !important;
+  color: #232323 !important;
 }
 .cid-rLOIf5IEqc {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #465052;
+  background-color: #efefef;
 }
 .cid-rLOIf5IEqc .title {
   margin-bottom: 2rem;
 }
 .cid-rLOIf5IEqc .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rLOIf5IEqc a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1111,15 +1111,15 @@ section.lazy-placeholder:after {
   min-height: 188px;
 }
 .cid-rLOIf5IEqc H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rLOIf5IEqc LABEL {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -1182,4 +1182,10 @@ section.lazy-placeholder:after {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 H5 {
+  color: #232323;
+}
+.cid-qTkAaeaxX5 P {
+  color: #232323;
 }
