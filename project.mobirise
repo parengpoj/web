@@ -45,11 +45,11 @@
         "url": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "favicon": "@PROJECT_PATH@/assets/images/pg-logo-128x102.png",
     "mbrsiteDomain": "twzk998oow",
     "robotsSwitcher": false,
@@ -57,7 +57,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "global_after_body": "<!-- Messenger Chat plugin Code -->\n    <div id=\"fb-root\"></div>\n\n    <!-- Your Chat plugin code -->\n    <div id=\"fb-customer-chat\" class=\"fb-customerchat\">\n    </div>\n\n    <script>\n      var chatbox = document.getElementById('fb-customer-chat');\n      chatbox.setAttribute(\"page_id\", \"2314423362126295\");\n      chatbox.setAttribute(\"attribution\", \"biz_inbox\");\n\n      window.fbAsyncInit = function() {\n        FB.init({\n          xfbml            : true,\n          version          : 'v12.0'\n        });\n      };\n\n      (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';\n        fjs.parentNode.insertBefore(js, fjs);\n      }(document, 'script', 'facebook-jssdk'));\n    </script>"
   },
   "pages": {
     "index.html": {
