@@ -729,9 +729,9 @@ a {
   color: #ffffff;
 }
 .cid-sMAxbyvC5D {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #fff0b0;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #9fdbf8;
 }
 .cid-sMAxbyvC5D .line {
   background-color: #000000;
@@ -809,7 +809,7 @@ a {
 }
 .cid-sMAgnuA3nB .dropdown-menu,
 .cid-sMAgnuA3nB .navbar.opened {
-  background: #fff0b0 !important;
+  background: #9fdbf8 !important;
 }
 .cid-sMAgnuA3nB .nav-item:focus,
 .cid-sMAgnuA3nB .nav-link:focus {
@@ -844,7 +844,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #fff0b0;
+  background: #9fdbf8;
 }
 .cid-sMAgnuA3nB .navbar.opened {
   transition: all 0.3s;
@@ -989,7 +989,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sMAgnuA3nB .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #fff0b0;
+  background: #9fdbf8;
 }
 .cid-sMAgnuA3nB .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1092,8 +1092,8 @@ a {
   }
 }
 .cid-sMAgNzOoND {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 8rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-sMAgNzOoND .card-box {
@@ -1111,7 +1111,7 @@ a {
 .cid-sMAgNzOoND .mbr-iconfont {
   display: block;
   font-size: 5rem;
-  color: #e6c63b;
+  color: #bbbbbb;
   margin-bottom: 2rem;
 }
 .cid-sMAgNzOoND .card-wrapper {
@@ -1124,7 +1124,7 @@ a {
 }
 .cid-sMAsnI8zLG {
   padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-bottom: 8rem;
   background-color: #fafafa;
 }
 .cid-sMAsnI8zLG .card-box {
@@ -1142,7 +1142,7 @@ a {
 .cid-sMAsnI8zLG .mbr-iconfont {
   display: block;
   font-size: 5rem;
-  color: #e6c63b;
+  color: #bbbbbb;
   margin-bottom: 2rem;
 }
 .cid-sMAsnI8zLG .card-wrapper {
@@ -1154,9 +1154,9 @@ a {
   justify-content: center;
 }
 .cid-sMAvzAavNc {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background: #fff0b0;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: #9fdbf8;
 }
 .cid-sMAvzAavNc .team-card {
   margin-bottom: 2rem;
@@ -1215,8 +1215,8 @@ a {
   color: #ffffff;
 }
 .cid-sMAgweNQFv {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   background-color: #fafafa;
 }
 .cid-sMAgweNQFv .img-wrapper {
@@ -1232,7 +1232,7 @@ a {
 }
 .cid-sMAgweNQFv .card-wrapper {
   border-radius: 4px;
-  background: #fff0b0;
+  background: #ffffff;
 }
 @media (max-width: 992px) {
   .cid-sMAgweNQFv .card-wrapper {
@@ -1250,9 +1250,9 @@ a {
   }
 }
 .cid-sMAGOLkRtB {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background: #fff0b0;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: #9fdbf8;
 }
 @media (max-width: 767px) {
   .cid-sMAGOLkRtB .row {
@@ -1314,69 +1314,9 @@ a {
   padding-right: 1.5rem;
   color: #6592e6;
 }
-.cid-sMAgB2crpn {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #353535;
-}
-.cid-sMAgB2crpn .media-wrap {
-  padding: 0;
-}
-@media (max-width: 991px) {
-  .cid-sMAgB2crpn .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sMAgB2crpn .row {
-    text-align: center;
-  }
-  .cid-sMAgB2crpn .row > div {
-    margin: auto;
-  }
-  .cid-sMAgB2crpn .social-row {
-    justify-content: center;
-  }
-}
-.cid-sMAgB2crpn .social-row {
-  display: flex;
-  flex-wrap: wrap;
-}
-.cid-sMAgB2crpn .list {
-  list-style: none;
-  padding-left: 0;
-  color: #bbbbbb;
-}
-@media (max-width: 991px) {
-  .cid-sMAgB2crpn .list {
-    margin-bottom: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sMAgB2crpn .list {
-    margin-bottom: 0rem;
-  }
-}
-.cid-sMAgB2crpn .mbr-text {
-  color: #bbbbbb;
-}
-.cid-sMAgB2crpn .soc-item {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  background-color: white;
-  margin-right: 0.5rem;
-  margin-bottom: 1rem;
-  padding: 0.5rem;
-  height: 2.5rem;
-  width: 2.5rem;
-}
-.cid-sMAgB2crpn .mbr-iconfont {
-  color: black;
-}
-@media (max-width: 991px) {
-  .cid-sMAgB2crpn div > *:last-child {
-    margin-top: 0 !important;
-  }
+.cid-sMF2zOWUhk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
