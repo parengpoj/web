@@ -708,7 +708,7 @@ a {
   transition: color 0.6s;
 }
 .cid-sMAiqRbaAY {
-  background-image: url("../../../assets/images/screenshot-2021-06-21-202453-1900x1200.jpg");
+  background-image: url("../../../assets/images/screenshot-2021-06-21-202453-1900x1200.png");
 }
 .cid-sMAiqRbaAY .social-row .soc-item {
   display: inline-block;
@@ -727,6 +727,11 @@ a {
 .cid-sMAiqRbaAY .social-row .soc-item .mbr-iconfont:hover {
   background-color: #232323;
   color: #ffffff;
+}
+.cid-sMAiqRbaAY .mbr-text,
+.cid-sMAiqRbaAY .mbr-section-btn,
+.cid-sMAiqRbaAY .social-row {
+  text-align: center;
 }
 .cid-sMAxbyvC5D {
   padding-top: 8rem;
