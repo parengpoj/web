@@ -41,30 +41,33 @@
       }
     ],
     "uniqCompNum": 55,
-    "versionPublish": "5.6.11",
+    "versionPublish": "5.8.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "favicon": "@PROJECT_PATH@/assets/images/screenshot-2021-06-21-202452-128x130.png",
-    "mbrsiteDomain": "0cuoy0gsbi",
+    "favicon": false,
+    "mbrsiteDomain": "xqsgnarxf7",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://mpojol.tax",
     "cookiesAlert": false,
     "gdpr": false,
     "global_after_body": "<!-- Messenger Chat plugin Code -->\n    <div id=\"fb-root\"></div>\n\n    <!-- Your Chat plugin code -->\n    <div id=\"fb-customer-chat\" class=\"fb-customerchat\">\n    </div>\n\n    <script>\n      var chatbox = document.getElementById('fb-customer-chat');\n      chatbox.setAttribute(\"page_id\", \"2314423362126295\");\n      chatbox.setAttribute(\"attribution\", \"biz_inbox\");\n\n      window.fbAsyncInit = function() {\n        FB.init({\n          xfbml            : true,\n          version          : 'v12.0'\n        });\n      };\n\n      (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = \"https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js\";\n        fjs.parentNode.insertBefore(js, fjs);\n      }(document, 'script', 'facebook-jssdk'));\n    </script>",
-    "global_footer_custom": ""
+    "global_footer_custom": "",
+    "usedWebp": true,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Pojol and Gabay, Certified Public Accountants",
+        "meta_descr": "A full service accounting, audit and tax firm located in Caloocan City (North), Philippines.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/screenshot-2021-06-21-202454-1900x1200.png"
       },
       "components": [
         {
