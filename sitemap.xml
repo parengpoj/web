@@ -7,6 +7,14 @@
 	<priority>1.0</priority>
 	<image:image>
 	<image:loc>http://mpojol.tax/img/logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://mpojol.tax/img/logo.webp</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>http://mpojol.tax/img/logo.png</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
